@@ -1,0 +1,14 @@
+﻿Build started 3/25/2015 01:39:39.
+     1>Project "c:\Users\stan\documents\visual studio 2013\Projects\SimpleDLL\SimpleDLL\SimpleDLL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Programs\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SIMPLEDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SimpleCPP.cpp
+         SimpleCPP.cpp
+       Link:
+         D:\Programs\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\stan\documents\visual studio 2013\Projects\SimpleDLL\Debug\SimpleDLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\stan\documents\visual studio 2013\Projects\SimpleDLL\Debug\SimpleDLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\stan\documents\visual studio 2013\Projects\SimpleDLL\Debug\SimpleDLL.lib" /MACHINE:X86 /DLL Debug\SimpleCPP.obj
+            Creating library c:\users\stan\documents\visual studio 2013\Projects\SimpleDLL\Debug\SimpleDLL.lib and object c:\users\stan\documents\visual studio 2013\Projects\SimpleDLL\Debug\SimpleDLL.exp
+         SimpleDLL.vcxproj -> c:\users\stan\documents\visual studio 2013\Projects\SimpleDLL\Debug\SimpleDLL.dll
+     1>Done Building Project "c:\Users\stan\documents\visual studio 2013\Projects\SimpleDLL\SimpleDLL\SimpleDLL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.43
